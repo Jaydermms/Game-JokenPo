@@ -1,0 +1,11 @@
+D:\Projetos\JokePo\JokePo\JokePo\bin\Debug\JokePo.exe.config
+D:\Projetos\JokePo\JokePo\JokePo\bin\Debug\JokePo.exe
+D:\Projetos\JokePo\JokePo\JokePo\bin\Debug\JokePo.pdb
+D:\Projetos\JokePo\JokePo\JokePo\obj\Debug\JokePo.csproj.AssemblyReference.cache
+D:\Projetos\JokePo\JokePo\JokePo\obj\Debug\JokePo.csproj.SuggestedBindingRedirects.cache
+D:\Projetos\JokePo\JokePo\JokePo\obj\Debug\JokePo.Form1.resources
+D:\Projetos\JokePo\JokePo\JokePo\obj\Debug\JokePo.Properties.Resources.resources
+D:\Projetos\JokePo\JokePo\JokePo\obj\Debug\JokePo.csproj.GenerateResource.cache
+D:\Projetos\JokePo\JokePo\JokePo\obj\Debug\JokePo.csproj.CoreCompileInputs.cache
+D:\Projetos\JokePo\JokePo\JokePo\obj\Debug\JokePo.exe
+D:\Projetos\JokePo\JokePo\JokePo\obj\Debug\JokePo.pdb
